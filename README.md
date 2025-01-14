@@ -1,5 +1,5 @@
 
-# **How to Install NVIDIA GPU for Object Detection, CUDA Toolkit, and cuDNN**
+# **How to Install NVIDIA GPU for Object Detection, CUDA Toolkit , and cuDNN Download &Installation**
 This documentation provides a comprehensive guide for installing the NVIDIA GPU, CUDA Toolkit, cuDNN, and diagnosing issues like "CUDA not available," specifically for the NVIDIA RTX A4000 or similar GPUs.
 
 ## 1. **Check if the NVIDIA Driver is Installed and Working**
